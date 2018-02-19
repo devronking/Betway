@@ -2,7 +2,9 @@
 A good automation framework:
 ## 1. Must be Modular
 The more modular the framework, the easier maintenance will be. When code is shared between multiple testcases and there is a change to the system under test, the automater would just need to make their changes in one place and all the scripts will be up to date.
-It should have a Function Libraries to contain all functions used in the framework.
+
+It should have a Function Library to contain all functions used in the framework.
+
 It should have a Page object repository for all pages.
  
 ## 2. Must be Flexible
