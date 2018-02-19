@@ -18,3 +18,4 @@ The results of the testcases should be reliable i.e. there should be no doubt th
 
 ## 5. Must have good Reporting
 Without reporting the framework will be useless. Stakeholders need to know which tests have passed and failed in order for the framework to add value. It is also useful to have a dashboard that someone can have a quick look at to determine the quality of the system under test e.g. Jenkins.
+Good reporting also assists in debugging by localising the point of failure which can save time in identifying the cause of failure.
